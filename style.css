@@ -141,6 +141,13 @@ ul {
     cursor: pointer;
 }
 
+.port {
+    border:#ef5455;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 10px
+}
 .contact {
     display: flex;
     flex-direction: column;
